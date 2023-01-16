@@ -7,3 +7,5 @@ The code for 2 ictal SPECT pipelines IISASL and ISASL is provided. The goal is t
 Ictal-interictal SPECT-ASL reguires both ictal and interictal SPECT image and a 3D structural MRI image as input.
 
 Ictal SPECT-ASL requires only the ictal SPECT images and 3D structural MRI image as input.
+
+To date, the code is uploaded for demonstratory purposes and will be developed further so be easily usable in future releases.  
